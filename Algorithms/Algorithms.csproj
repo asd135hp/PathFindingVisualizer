@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Types\BestFirstSearchAlgorithm.cs~RFb6f16e6.TMP" />
+  </ItemGroup>
+
+</Project>

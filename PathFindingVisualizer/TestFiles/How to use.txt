@@ -1,0 +1,7 @@
+Put the test cases to the same directory as this program's build folder.
+
+Test cases will have the following properties:
+- First line: board rows and columns - [rows, columns]
+- Second line: starting point - (x, y)
+- Third line: goal points - (x, y) | (x1, y1) | (x2, y2)
+- Fourth line and so on: walls - (x, y, width, height)

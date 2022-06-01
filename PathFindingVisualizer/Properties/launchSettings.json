@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Visualizer": {
+      "commandName": "Project",
+      "commandLineArgs": "input1.txt a* 1"
+    }
+  }
+}
